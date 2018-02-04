@@ -5,82 +5,27 @@
     <keyboard-shortcut first-keystroke="meta colon" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="DecrementWindowHeight" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Console.TableResult.Reload" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta down" />
-  </action>
-  <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="meta home" />
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta home" />
-    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta 8" />
     <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
   </action>
-  <action id="IncrementWindowHeight" />
-  <action id="MoveStatementDown" />
-  <action id="MoveStatementUp" />
-  <action id="NextEditorTab" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
-  <action id="PreviousEditorTab" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
   <action id="Refresh" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
-  </action>
+  <action id="Replace" />
   <action id="Rerun" />
-  <action id="RerunTests">
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="ResizeToolWindowDown" />
-  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="RunClass" />
-  <action id="RunDashboard.Run" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt home" />
-  </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
-  <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="meta left_parenthesis" />
   </action>
-  <action id="UsageView.Rerun" />
-  <action id="Valgrind">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
+  <action id="Vcs.Log.Refresh" />
 </keymap>

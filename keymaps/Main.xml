@@ -1,0 +1,31 @@
+<keymap version="1" name="Main" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.Reload" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta left_parenthesis" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+</keymap>

@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
@@ -10,6 +11,15 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="8" />
+    <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
+    <option name="INDENT_CLASS_MEMBERS" value="8" />
+    <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="2" />
+    <option name="FUNCTION_PARAMETERS_ALIGN_MULTILINE_PARS" value="true" />
+  </Objective-C>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -56,6 +66,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
